@@ -5,3 +5,7 @@ Meu primeiro repositório Git.
 ## Objetivo
 
 Aprender Git e GitHub na prática.
+
+## Progresso
+
+Primeiro repositório local conectado ao GitHub.
