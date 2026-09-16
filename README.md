@@ -9,3 +9,7 @@ Aprender Git e GitHub na prática.
 ## Progresso
 
 Primeiro repositório local conectado ao GitHub.
+
+## GitHub
+
+Alteração realizada diretamente no repositório remoto.
