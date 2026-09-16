@@ -17,4 +17,4 @@ Alteração realizada diretamente no repositório remoto.
 ## Tecnologias
 
 -Git
--GitHub
+-GitHub e SQL
