@@ -13,3 +13,8 @@ Primeiro repositório local conectado ao GitHub.
 ## GitHub
 
 Alteração realizada diretamente no repositório remoto.
+
+## Tecnologias
+
+-Git
+-GitHub
